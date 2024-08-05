@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_template_deploy/static/css/main.52913604.css",
+    "main.js": "/react_template_deploy/static/js/main.50030aff.js",
+    "static/media/video2.mp4": "/react_template_deploy/static/media/video2.dccb45b33221101723b1.mp4",
+    "static/media/video1.mp4": "/react_template_deploy/static/media/video1.c57aaad094fcda3e06fe.mp4",
+    "static/media/code.jpg": "/react_template_deploy/static/media/code.fea6cf7433b105d6e874.jpg",
+    "static/media/user2.jpg": "/react_template_deploy/static/media/user2.44702c4431726824b62e.jpg",
+    "static/media/user3.jpg": "/react_template_deploy/static/media/user3.5c9c10bda8c6f8eb544e.jpg",
+    "static/media/user6.jpg": "/react_template_deploy/static/media/user6.a0491bb9b27b7fd208a3.jpg",
+    "static/media/user1.jpg": "/react_template_deploy/static/media/user1.89fba0e95d811157afca.jpg",
+    "static/media/user5.jpg": "/react_template_deploy/static/media/user5.921947eccae648403fd7.jpg",
+    "static/media/user4.jpg": "/react_template_deploy/static/media/user4.b3a5b044617d336fd8f2.jpg",
+    "index.html": "/react_template_deploy/index.html",
+    "main.52913604.css.map": "/react_template_deploy/static/css/main.52913604.css.map",
+    "main.50030aff.js.map": "/react_template_deploy/static/js/main.50030aff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52913604.css",
+    "static/js/main.50030aff.js"
+  ]
+}
