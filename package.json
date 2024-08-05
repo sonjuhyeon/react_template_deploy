@@ -15,7 +15,7 @@
     "react-scroll-to-top": "^3.0.0",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://sonjuhyeon.github.io/React_template/",
+  "homepage": "https://sonjuhyeon.github.io/react_template_deploy/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

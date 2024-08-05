@@ -16,9 +16,9 @@ const Workflow = () => {
         <div className="p-2 w-full lg:w-1/2">
           <img src={codeImg} alt="" />
         </div>
-        <div className="p-12 w-full lg:w-1/2">
+        <div className="px-12 py-24 w-full lg:w-1/2 flex flex-col justify-between">
           {checklistItems.map((item, idx) => (
-            <div key={idx} className="flex mb-12">
+            <div key={idx} className="flex">
               <div className="text-indigo-400 mx-6 bg-neutral-900 h-10 w-10 p-2 justify-center items-center rounded-full">
                 <CheckCircle2 />
               </div>

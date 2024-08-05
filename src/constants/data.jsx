@@ -12,6 +12,13 @@ import user4 from "../assets/profile-pictures/user4.jpg";
 import user5 from "../assets/profile-pictures/user5.jpg";
 import user6 from "../assets/profile-pictures/user6.jpg";
 
+import feature1 from "../assets/features-pictures/drag-and-drop.jpg";
+import feature2 from "../assets/features-pictures/Multi-Platform.jpg";
+import feature3 from "../assets/features-pictures/Built-in.jpg";
+import feature4 from "../assets/features-pictures/Real-Time.jpg";
+import feature5 from "../assets/features-pictures/Collaboration.jpg";
+import feature6 from "../assets/features-pictures/Analytics.jpg";
+
 export const navItems = [
   { label: "Home", to: "/" },
   { label: "Features", to: "/features" },
@@ -67,39 +74,45 @@ export const testimonials = [
 export const features = [
   {
     icon: <BotMessageSquare />,
-    text: "편리한 사용자 인터페이스",
+    text: "Drag-and-Drop Interface",
     description:
       "Easily design and arrange your VR environments with a user-friendly drag-and-drop interface.",
+    img: feature1,
   },
   {
     icon: <Fingerprint />,
-    text: "멀티 플랫폼 확장성",
+    text: "Multi-Platform Compatibility",
     description:
       "Build VR applications that run seamlessly across multiple platforms, including mobile, desktop, and VR headsets.",
+    img: feature2,
   },
   {
     icon: <ShieldHalf />,
-    text: "깔맞춤 탬플릿",
+    text: "Built-in Templates",
     description:
       "Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments.",
+    img: feature3,
   },
   {
     icon: <BatteryCharging />,
-    text: "실시간 리뷰",
+    text: "Real-Time Preview",
     description:
       "Preview your VR application in real-time as you make changes, allowing for quick iterations and adjustments.",
+    img: feature4,
   },
   {
     icon: <PlugZap />,
-    text: "견고한 협업 툴",
+    text: "Collaboration Tools",
     description:
       "Work together with your team in real-time on VR projects, enabling seamless collaboration and idea sharing.",
+    img: feature5,
   },
   {
     icon: <GlobeLock />,
-    text: "분석을 위한 대시보드",
+    text: "Analytics Dashboard",
     description:
       "Gain valuable insights into user interactions and behavior within your VR applications with an integrated analytics dashboard.",
+    img: feature6,
   },
 ];
 

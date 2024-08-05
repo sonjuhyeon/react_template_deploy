@@ -6,7 +6,7 @@ module.exports = {
     extend: {},
     fontFamily: {
       customFontEn: ['"IBM Plex Mono", monospace'],
-      customFontKR: ['Noto Sans KR", sans-serif'],
+      customFontKR: ['"Noto Sans KR", sans-serif'],
     },
     screens: {
       mb: "390px",

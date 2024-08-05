@@ -9,12 +9,12 @@ import ScrollToTop from "react-scroll-to-top";
 
 function App() {
   return (
-    <BrowserRouter basename="/React_template">
+    <BrowserRouter basename="/react_template_deploy">
       <div className="App">
         <Navbar />
 
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/home" element={<Home />} />
           <Route path="/features" element={<Features />} />
           <Route path="/signin" element={<Signin />} />
           <Route path="/signup" element={<Signup />} />
